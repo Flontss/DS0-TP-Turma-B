@@ -1,0 +1,56 @@
+html, body{
+    width:100%;
+    height: 100%;
+    margin: 0px;
+}
+
+.conteudo{
+    width: 1175px;
+    margin: 0 auto;
+    height: auto; 
+}
+
+.espaco{
+    width: 1175px;
+    height: 100px;; 
+}
+
+.flutuar{
+    float: left;
+}
+
+.flutuar-direita{
+    float: right;
+}
+
+.esquerda-25{
+    margin-left: 25px;
+}
+
+.acima-25{
+    margin-top:25px;
+}
+
+.clear{
+    clear: both;
+}
+
+.bloco-a {
+    width: 275px;
+    height: 625px;
+    float: left;
+    background-color:#00bfff;
+}
+
+.bloco-b{
+    width: 275px;
+    height: 300px;
+    float: left;
+    background-color:#d64161;
+}
+.bloco-d {
+    width: 275px;
+    height: 625px;
+    float: right;
+    background-color:#00bfff;
+}
