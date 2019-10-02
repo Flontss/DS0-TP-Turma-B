@@ -2,7 +2,7 @@ Oi meu amor como vai você meu anjo minha gatinha  :3
 Aula super produtiva de hoje, de gitHub.
 
 -git add : adicionar o arquivo.
--git commic: congelar o arquivo.
--git push: empurrar para o servidor:
+-git commic -m "nome da atualização": congelar o arquivo.
+-git push origin master: empurrar para o servidor:
  
 						  		 
